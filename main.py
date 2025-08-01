@@ -1,4 +1,4 @@
-print("Versão 3")
+print("Versão 4")
 
 ## git init => inicializa o repositório
 ## git status => mostrar o status dos arquivos dentro do seu repositório
